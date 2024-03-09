@@ -1,7 +1,7 @@
 const submitbtn = document.getElementById("submit");
 let input = document.getElementById("input-text"); // Change the id to "input-text"
 let select = document.getElementById("selction");
-let dataBox = document.getElementById("");
+let dataBox = document.getElementById("data");
 
 submitbtn.addEventListener("click", async () => {
     try {
